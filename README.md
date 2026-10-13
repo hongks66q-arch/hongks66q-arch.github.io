@@ -1,1 +1,3 @@
-# hongks66q-arch.github.io
+# 법률사무소 블로그
+
+이 저장소는 GitHub Pages로 공개되는 법률사무소 블로그의 원본 파일을 둔다. 글은 ai-office에서 검수한 뒤 비서실장이 올린다.
